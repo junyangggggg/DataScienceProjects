@@ -1,5 +1,13 @@
 # Exploring the Kaggle Data Science Survey
 
+Objective: Explore which tool is most commonly used in the Kaggle competition
+
+Skills: Data Manipulation, Data Visualization
+
+Tools: R, dplyr, ggplot, tidyverse
+
+Some notes:
+
 This is my first project that is related to data science. Basically it warms me up for future
 data science projects. Luckily, Datacamp provides guided projects that is very beginner-friendly,
 especially for me who has zero experience. However, this 
@@ -39,9 +47,4 @@ and of course, check if there is any missing value.
 
 ## Section 9
 - Complete.
-<br>
-<br>
 
-*tools used: R, dplyr, ggplot, tidyverse*
-
-*skills: Data Manipulation, Data Visualization*
