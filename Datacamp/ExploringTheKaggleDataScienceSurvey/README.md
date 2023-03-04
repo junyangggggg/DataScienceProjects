@@ -41,7 +41,6 @@ and of course, check if there is any missing value.
 - Complete.
 <br>
 <br>
-<br>
 
 *tools used: R, dplyr, ggplot, tidyverse*
 
