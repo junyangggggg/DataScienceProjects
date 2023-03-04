@@ -1,4 +1,4 @@
-### Exploring the Kaggle Data Science Survey
+# Exploring the Kaggle Data Science Survey
 
 This is my first project that is related to data science. Basically it warms me up for future
 data science project. Luckily, Datacamp provides guided projects that is very beginner-friendly,
