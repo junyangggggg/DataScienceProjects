@@ -39,8 +39,9 @@ and of course, check if there is any missing value.
 
 ## Section 9
 - Complete.
-
-
-
+<br>
+<br>
+<br>
 *tools used: R, dplyr, ggplot, tidyverse*
+
 *skills: Data Manipulation, Data Visualization*
