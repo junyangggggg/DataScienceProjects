@@ -1,3 +1,5 @@
+### Exploring the Kaggle Data Science Survey
+
 This is my first project that is related to data science. Basically it warms me up for future
 data science project. Luckily, Datacamp provides guided projects that is very beginner-friendly,
 especially for me who has zero experience in hands-on data science project. However, this 
@@ -38,5 +40,6 @@ and of course, check if there is any missing value.
 ## Section 9
 - Complete.
 
-tools used: R, dplyr, ggplot, tidyverse
-skills: Data Manipulation, Data Visualization
+*tools used: R, dplyr, ggplot, tidyverse*
+
+*skills: Data Manipulation, Data Visualization*
