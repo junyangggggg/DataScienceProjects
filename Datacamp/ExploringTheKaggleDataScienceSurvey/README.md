@@ -1,8 +1,8 @@
 # Exploring the Kaggle Data Science Survey
 
 This is my first project that is related to data science. Basically it warms me up for future
-data science project. Luckily, Datacamp provides guided projects that is very beginner-friendly,
-especially for me who has zero experience in hands-on data science project. However, this 
+data science projects. Luckily, Datacamp provides guided projects that is very beginner-friendly,
+especially for me who has zero experience. However, this 
 leads to a problem that is the learner would be just simply following the instructions without
 knowing why we need to perform such action. This project is a good example for that, as it doesn't 
 emphasize on the interpretation of the output. Therefore, I decided to write a summary for 
