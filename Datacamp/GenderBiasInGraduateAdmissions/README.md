@@ -24,7 +24,7 @@ Tools: R, dplyr, ggplot, tidyverse
 
 ## Section 5
 - identify the department that may have gender bias, those will be our interests
-- make a hypothesis such that H_0: there is no gender bias
+- make a hypothesis such that H~0: there is no gender bias
 - manipulate the data again so that we can proceed with a correct dataset
 
 ## Section 6
